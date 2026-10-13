@@ -1,0 +1,15 @@
+{
+  "checkpoint": "intfloat/multilingual-e5-base",
+  "revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+  "pooling": "masked mean",
+  "normalisation": "L2",
+  "query_prefix": "query: ",
+  "document_prefix": "passage: ",
+  "content_tokens": 448,
+  "overlap_tokens": 64,
+  "added_channel_context_tokens": 48,
+  "max_input_tokens": 512,
+  "categorical_values": "at most 50 evenly spaced displayed values per field, including endpoints",
+  "scoring": "maximum cosine in each channel, equal average of description/profile/value scores, absent added channels use description score",
+  "status": "Recovered current pilot settings"
+}
