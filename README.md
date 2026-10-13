@@ -13,7 +13,7 @@ All 49 evaluated needs and both formulations are retained to reproduce the compl
 
 ## Run
 
-Use Python 3.10 or later, from this extracted folder.
+Use Python 3.10 or later,
 
 ```bash
 python -m pip install -r requirements.txt
